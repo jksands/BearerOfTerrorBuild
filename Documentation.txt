@@ -1,0 +1,7 @@
+Filename: BearerOfTerror.exe
+
+
+Functionality:
+Numpad +/- : Increase/Decrease the number of subdivisions of the grid
+Left click and drag: Creates a force vector in the opposite direction you drag (like a slingshot)
+	The farther you pull back, the farther you go!
